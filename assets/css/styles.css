@@ -1,7 +1,11 @@
 .box{
 	width: 200px;
 	height: 200px;
-	float: left;
+	float: right;
+}
+
+h1{
+	text-align: right;
 }
 
 .yellow{
