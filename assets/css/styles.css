@@ -1,0 +1,16 @@
+.box{
+	width: 200px;
+	height: 200px;
+}
+
+.yellow{
+	background: yellow;
+}
+
+.blue{
+	background: blue;
+}
+
+.red{
+	background: red;
+}
