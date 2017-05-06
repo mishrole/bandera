@@ -1,11 +1,13 @@
+section{
+	width: 800px;
+	border: 1px solid gray;
+	display: inline-block;
+}
+
 .box{
 	width: 200px;
 	height: 200px;
 	float: right;
-}
-
-h1{
-	text-align: right;
 }
 
 .yellow{
